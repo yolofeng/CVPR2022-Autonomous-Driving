@@ -76,6 +76,8 @@ CVPR2022 | 轨迹预测-行人 | Adaptive Trajectory Prediction via Transferable
 
 CVPR2022 |轨迹预测-利用上下文信息 | Raising context awareness in motion forecasting| [[论文链接](https://openaccess.thecvf.com/content/CVPR2022W/WAD/papers/Ben-Younes_Raising_Context_Awareness_in_Motion_Forecasting_CVPRW_2022_paper.pdf)] [[代码链接](https://link.zhihu.com/?target=http%3A//github.com/valeoai/CAB)][解读链接]
 
+CVPR2022 |轨迹预测-场景一致 | ScePT: Scene-consistent, Policy-based Trajectory Predictions for Planning | [[论文链接](https://arxiv.org/pdf/2206.13387.pdf)] [[代码链接](https://github.com/nvr-avg/ScePT)][解读链接]
+
 ## 建图与定位
 
 CVPR2022 |视觉定位| Deep Visual Geo-localization Benchmark | [[论文链接](https://arxiv.org/pdf/2204.03444.pdf)] [[代码链接](https://deep-vg-bench.herokuapp.com/)][解读链接]
